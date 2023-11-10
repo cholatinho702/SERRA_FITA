@@ -10,7 +10,8 @@
 
 ![image](https://github.com/cholatinho702/SERRA_FITA/assets/150470050/a94171ed-9546-4715-af87-ae6dc129525c) 
 ![image](https://github.com/cholatinho702/SERRA_FITA/assets/150470050/8961097b-fac6-408b-a70c-dff92a96ae45)
-![image](https://github.com/cholatinho702/SERRA_FITA/assets/150470050/6c4b03e6-fc68-4da3-aadf-c33572887ac2)      
+                                                                                                              ![image](https://github.com/cholatinho702/SERRA_FITA/assets/150470050/6c4b03e6-fc68-4da3-aadf-c33572887ac2)      
+                                                                                                           
                                                                                                             ![image](https://github.com/cholatinho702/SERRA_FITA/assets/150470050/099885e4-bd56-4054-89d4-701b5b2b3c37)
 ![image](https://github.com/cholatinho702/SERRA_FITA/assets/150470050/eb9cc2ca-59f1-49a4-926c-f399286a13ec)
 
