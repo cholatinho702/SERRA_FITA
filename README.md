@@ -10,7 +10,8 @@
 
 ![image](https://github.com/cholatinho702/SERRA_FITA/assets/150470050/a94171ed-9546-4715-af87-ae6dc129525c) 
 ![image](https://github.com/cholatinho702/SERRA_FITA/assets/150470050/8961097b-fac6-408b-a70c-dff92a96ae45)
- 
+ ![image](https://github.com/cholatinho702/SERRA_FITA/assets/150470050/37299ce3-a871-4f06-987e-20d2c822f84e)
+
 
 
 
