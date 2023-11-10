@@ -1,4 +1,4 @@
-# SERRA_FITA
+# RONEMAK MÁQUINAS OPERATRIZES_ SERRA DE FITA
 
 -Esse portifolio serve para analisar as peças da maquina em 3D, esses crock são desenhados e cotados dentro do Inventor, da Autodesk, modelagem 3D, o primeiro passo foi modelagem das peças utilizando diversas ferramentas de como extrusão, revolução, varredura, entre outras, pois cada peça é geralmente projetada em seu próprio ambiente de design.
 
