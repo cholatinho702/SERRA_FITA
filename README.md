@@ -7,3 +7,5 @@
 -Biblioteca de Peças Padrão: geralmente inclui uma biblioteca de peças padrão, que contém uma variedade de componentes comumente usados, como parafusos, porcas, engrenagens, entre outros.
 
 -Propriedades e Materiais: cada peça deve umas propriedades específicas, como material, peso, informações personalizadas, junto as suas medidas.
+
+![image](https://github.com/cholatinho702/SERRA_FITA/assets/150470050/a94171ed-9546-4715-af87-ae6dc129525c)
